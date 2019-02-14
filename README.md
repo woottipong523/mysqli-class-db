@@ -7,7 +7,7 @@ To begin, install the preferred dependency manager for PHP, Composer.<br/>
 Now to install just this component:<br/><br/>
 composer require woottipong523/mysqli-class-db<br/><br/>
 
-<b>Sample</b><br/><br/><br/><br/>
+<b>Sample</b><br/><br/>
 require 'vendor/autoload.php';<br/>
 use woottipong523/mysqli-class-db\DB;<br/>
 $db = new DB('user', 'password', 'database', 'host');<br /><br />
