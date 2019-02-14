@@ -8,7 +8,7 @@
         "email": "woottipong523@psru.ac.th",
         "homepage": "https://www.mobilesdev.com"
     }],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "woottipong523\\mysqli-class-db\\": "src"
