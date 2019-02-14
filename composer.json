@@ -12,7 +12,7 @@
         "homepage": "https://www.mobilesdev.com"
     }],
     "minimum-stability": "dev",
-    "prefer-stable": "true"
+    "prefer-stable": "true",
     "autoload": {
         "psr-4": {
             "woottipong523\\mysqli-class-db\\": "src/"
