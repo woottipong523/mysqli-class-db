@@ -1,22 +1,23 @@
 {
     "name": "woottipong523/mysqli-class-db",
     "description": "Easy database connection (MySQLi)",
-    "type": "package",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [{
         "name": "Woottipong Kongsib",
         "email": "woottipong523@psru.ac.th",
         "homepage": "https://www.mobilesdev.com"
     }],
-    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4",
+        "nesbot/carbon": "^1.25"
+    },
     "autoload": {
         "psr-4": {
             "woottipong523\\mysqli-class-db\\": "src"
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.8|^5.0",
-        "google/cloud-core": "^1.26",
-        "phpdocumentor/reflection": "^3.0"
+        "phpunit/phpunit": "^4.8",
+        "clean/phpdoc-md": "^0.10.0"
     }
 }
