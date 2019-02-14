@@ -1,5 +1,8 @@
 # mysqli-class-db
-Easy database connection (MySQLi)
+Easy database connection (MySQLi)<br/><br/>
+
+<b>Install</b><br/>
+composer require woottipong523/mysqli-class-db<br/><br/>
 
 $db = new DB('user', 'password', 'database', 'host');<br /><br />
 
