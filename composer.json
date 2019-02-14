@@ -11,7 +11,8 @@
         "email": "woottipong523@psru.ac.th",
         "homepage": "https://www.mobilesdev.com"
     }],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
+    "portphp/portphp": "^1.0@dev",
     "prefer-stable": "true",
     "autoload": {
         "psr-4": {
