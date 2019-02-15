@@ -1,0 +1,19 @@
+{
+    "name": "woottipong523\/mysqli-class-db",
+    "description": "Easy database connection (MySQLi)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Woottipong Kongsib",
+            "email": "woottipong523@psru.ac.th"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "woottipong523\\mysqliclassdb\\": "src/"
+        }
+    }
+}
