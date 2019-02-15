@@ -1,12 +1,16 @@
 {
     "name": "woottipong523/mysqli-class-db",
     "description": "Easy database connection (MySQLi)",
+    "type": "library",
     "license": "MIT",
-    "authors": [{
-        "name": "Woottipong Kongsib",
-        "email": "woottipong523@psru.ac.th",
-        "homepage": "https://www.mobilesdev.com"
-    }],
+    "authors": [
+        {
+            "name": "Woottipong Kongsib",
+            "email": "woottipong523@psru.ac.th"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
         "psr-4": {
             "woottipong523\\mysqli-class-db\\": "src/"
