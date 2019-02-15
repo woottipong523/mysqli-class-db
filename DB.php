@@ -1,5 +1,4 @@
 <?php
-namespace woottipong523\mysqliclassdb;
 class DB{
     private $conn = null;
     private $last_id = null;
