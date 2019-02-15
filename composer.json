@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "woottipong523\\mysqli-class-db\\": "src/"
+            "woottipong523\\mysqliclassdb\\": "src/"
         }
     }
 }
