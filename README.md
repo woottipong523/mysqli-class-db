@@ -9,7 +9,6 @@ composer require woottipong523/mysqli-class-db<br/><br/>
 
 <b>Sample</b><br/><br/>
 require 'vendor/autoload.php';<br/>
-use woottipong523\mysqliclassdb\DB;<br/>
 $db = new DB('user', 'password', 'database', 'host');<br /><br />
 
 // insert
