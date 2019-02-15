@@ -1,5 +1,4 @@
 <?php
-//mysqli class by mr.woottipong kongisb
 namespace woottipong523\mysqli-class-db
 class DB{
     private $conn = null;
