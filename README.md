@@ -5,7 +5,7 @@ Easy database connection (MySQLi)<br/><br/>
 <b>Installation</b><br/>
 To begin, install the preferred dependency manager for PHP, Composer.<br/>
 Now to install just this component:<br/><br/>
-composer require woottipong523/mysqli-class-db<br/><br/>
+composer require woottipong523/mysqliclassdb<br/><br/>
 
 <b>Sample</b><br/><br/>
 require 'vendor/autoload.php';<br/>
