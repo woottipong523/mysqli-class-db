@@ -9,7 +9,6 @@
             "email": "woottipong523@psru.ac.th"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
