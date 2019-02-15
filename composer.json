@@ -12,8 +12,6 @@
         "php" : ">=7.0"
     },
     "autoload": {
-        "psr-4": {
-            "woottipong523\\mysqliclassdb\\": "src/"
-        }
+        "files": ["DB.php"]
     }
 }
