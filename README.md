@@ -1,4 +1,4 @@
-# mysqli-class-db
+# mysqliclassdb
 Easy database connection (MySQLi)<br/><br/>
 
 
